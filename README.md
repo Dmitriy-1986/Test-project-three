@@ -1,1 +1,1 @@
-https://dmitriy-1986.github.io/Test-three/.
+https://dmitriy-1986.github.io/Test-project-three/.
